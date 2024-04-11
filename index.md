@@ -18,15 +18,15 @@ We do not collect personal information and therefore do not share any personal d
 
 As we do not collect any personal information, there are no specific privacy rights to be exercised. However, if you have questions or concerns about our privacy practices, you can contact us at ibnnoam@gmail.com.
 
-5. Security
+6. Security
 
 We are committed to ensuring the security of our application and have implemented measures designed to secure your personal information from accidental loss and from unauthorized access, use, alteration, and disclosure.
 
-6. Changes to Our Privacy Policy
+7. Changes to Our Privacy Policy
 
 We may update our Privacy Policy from time to time. We will notify you of any changes by posting the new Privacy Policy on this page. You are advised to review this Privacy Policy periodically for any changes.
 
-7. Contact Information
+8. Contact Information
 
 To ask questions or comment about this Privacy Policy and our privacy practices, contact us at: ibnnoam@gmail.com
 
