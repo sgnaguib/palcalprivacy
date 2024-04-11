@@ -1,1 +1,1 @@
-# palcalprivacy
+# Pal Cal Privacy Policy
