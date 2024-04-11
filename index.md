@@ -8,7 +8,7 @@ We do not collect any personal information through the App. As a simple calendar
 
 2. How We Use Information
 
-Since we do not collect any personal information, there is no usage of user data for any purpose.
+Since we do NOT collect any personal information, there is no usage of user data for any purpose.
 
 3. How We Share Information
 
